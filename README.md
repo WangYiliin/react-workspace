@@ -28,7 +28,7 @@ react-workspace/
 ```
 
 ## Folder Descriptions
-- **environment/**: Contaions all stage environment configuration.
+- **environment/**: Contains all stage environment configuration.
 - **node_modules/**: Contains all the dependencies installed via npm.
 - **public/**: Stores static assets that are publicly accessible.
 - **src/**: The main source code directory for the React application.
