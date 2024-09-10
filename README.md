@@ -21,7 +21,9 @@ react-workspace/
 │   ├── .gitignore
 │   ├── package-lock.json
 │   ├── package.json
-│   └── README.md
+│   ├── postcss.config.js
+│   ├── README.md
+│   └── tailwind.config.js
 └── README.md
 ```
 
@@ -55,3 +57,5 @@ react-workspace/
 - **.gitignore**: Specifies which files and directories should be ignored by Git.
 - **package-lock.json**: Automatically generated file that locks the versions of installed packages.
 - **package.json**: Defines the project dependencies and scripts.
+- **postcss.config.js**: Tailwind configuration file
+- **tailwind.config.js**: Tailwind configuration file
